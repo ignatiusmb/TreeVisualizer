@@ -5,7 +5,7 @@ A simple program to print all the nodes in the tree with a beautiful output. Con
 Download `TreeVisualizer.java` and put it in the same directory so you won't need to import anything
 
 ## How to use
-1. Just put `TreeVisualizer.java` in the same directory with the `Node` file (to implement) and `Tree` file (to print)
+1. Put `TreeVisualizer.java` in the same directory with the `Node` file (to implement) and `Tree` file (to print)
 2. Implements `Visualized` from `TreeVisualizer` to your `Node` class
 3. Override `getLeft`, `getRight`, and `getValue` method with your values
 ```java
@@ -65,6 +65,10 @@ class Tree {
 This project is licensed under Unlicense license - see the [LICENSE](LICENSE) file for details
 
 ---
-> [imbagus.com](www.imbagus.com) &nbsp;&middot;&nbsp;
-> GitHub [@ignatiusmb](https://github.com/ignatiusmb) &nbsp;&middot;&nbsp;
-> GitLab [@ignatiusmb](https://gitlab.com/ignatiusmb)
+<p align="center">
+  <a href="www.imbagus.com">imbagus.com</a>
+  &middot;
+  <a href="https://github.com/ignatiusmb">GitHub</a>
+  &middot;
+  <a href="https://gitlab.com/ignatiusmb">GitLab</a>
+</p>
