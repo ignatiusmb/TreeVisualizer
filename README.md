@@ -66,6 +66,8 @@ This project is licensed under Unlicense license - see the [LICENSE](LICENSE) fi
 
 ---
 <p align="center">
+  <a href="https://ignatiusmb.github.io">ignatiusmb.io</a>
+  &middot;
   <a href="www.imbagus.com">imbagus.com</a>
   &middot;
   <a href="https://github.com/ignatiusmb">GitHub</a>
