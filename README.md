@@ -1,10 +1,10 @@
-# Java - Tree Visualizer
+# TreeVisualizer
 A simple program to print all the nodes in the tree with a beautiful output. Connected by lines with clear paths, it's nice to look and easy to debug a tree.
 
 ## Getting Started
 Download `TreeVisualizer.java` and put it in the same directory so you won't need to import anything
 
-## How to use
+## Usage
 1. Put `TreeVisualizer.java` in the same directory with the `Node` file (to implement) and `Tree` file (to print)
 2. Implements `Visualized` from `TreeVisualizer` to your `Node` class
 3. Override `getLeft`, `getRight`, and `getValue` method with your values
@@ -60,9 +60,8 @@ class Tree {
   }
 }
 ```
-## License
-
-This project is licensed under Unlicense license - see the [LICENSE](LICENSE) file for details
+### License
+TreeVisualizer is [Unlicensed](LICENSE)
 
 ---
 <p align="center">
