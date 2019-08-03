@@ -60,10 +60,15 @@ class Tree {
   }
 }
 ```
-### License
-TreeVisualizer is [Unlicensed](LICENSE)
 
 ---
+
+<h3 align="center">
+TreeVisualizer is <a href=LICENSE>Unlicensed</a>
+</h3>
+
+---
+
 <p align="center">
   <a href="https://ignatiusmb.github.io">ignatiusmb.io</a>
   &middot;
